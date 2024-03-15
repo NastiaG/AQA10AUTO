@@ -1,0 +1,1 @@
+{"uuid":"7f54fe6a-a365-4c18-a9cb-11eb8741c795","name":"TestRegistrationScript","children":["80882415-5036-4960-850c-2c8f24907420"],"befores":[{"name":"setupDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1710489657429,"stop":1710489658957}],"afters":[],"links":[],"start":1710489657311,"stop":1710489665051}
